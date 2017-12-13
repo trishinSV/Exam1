@@ -1,0 +1,6 @@
+﻿  Exam1.cpp
+c:\opengl\exam1\exam1\exam1.cpp(119): warning C4101: ch2: неиспользованная локальная переменная
+c:\opengl\exam1\exam1\exam1.cpp(118): warning C4101: ch: неиспользованная локальная переменная
+c:\opengl\exam1\exam1\exam1.cpp(120): warning C4101: temp: неиспользованная локальная переменная
+  Exam1.vcxproj -> C:\OpenGl\Exam1\Debug\Exam1.exe
+  Exam1.vcxproj -> C:\OpenGl\Exam1\Debug\Exam1.pdb (Full PDB)
